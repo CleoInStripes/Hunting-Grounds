@@ -8,6 +8,7 @@ public class PlayerController : MonoBehaviour
 
     private InputAction playerMoveAction;
     private InputAction playerJumpAction;
+    private InputAction playerAttackAction;
 
     [SerializeField]
     private Transform playerCamera;
@@ -21,6 +22,10 @@ public class PlayerController : MonoBehaviour
     private float verticalVelocity = 0f;
     private float gravity = -9.8f;
     private float jumpHeight = 5.0f;
+
+    //bullet time
+    public GameObject bloodBullet;
+    public GameObject bulletSpawnLocation;
 
     private void OnEnable()
     {
@@ -36,6 +41,7 @@ public class PlayerController : MonoBehaviour
     {
         playerMoveAction = InputSystem.actions.FindAction("Move");
         playerJumpAction = InputSystem.actions.FindAction("Jump");
+        playerAttackAction = InputSystem.actions.FindAction("Attack");
     }
 
     private void Update()
@@ -43,6 +49,7 @@ public class PlayerController : MonoBehaviour
         playerMoveAmount = playerMoveAction.ReadValue<Vector2>();
         PlayerMoveAndRotate();
         Jump();
+        Attack();
     }
 
     private void PlayerMoveAndRotate()
@@ -84,6 +91,14 @@ public class PlayerController : MonoBehaviour
         }
     }
 
+    private void Attack()
+    {
 
+
+        if (playerAttackAction.WasPressedThisFrame())
+        {
+            Instantiate(bloodBullet, bulletSpawnLocation.transform.position, bulletSpawnLocation.transform.rotation);
+        }
+    }
 
 }
