@@ -1,5 +1,7 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
+using TMPro;
+using System;
 
 public class PlayerController : MonoBehaviour
 {
@@ -26,6 +28,8 @@ public class PlayerController : MonoBehaviour
     //bullet time
     public GameObject bloodBullet;
     public GameObject bulletSpawnLocation;
+    public int ammo = 20;
+    public TMP_Text ammoCounter;
 
     private void OnEnable()
     {
@@ -50,6 +54,8 @@ public class PlayerController : MonoBehaviour
         PlayerMoveAndRotate();
         Jump();
         Attack();
+
+        ammoCounter.text = "your ammo is: " + ammo + "/ 20";
     }
 
     private void PlayerMoveAndRotate()
@@ -95,9 +101,10 @@ public class PlayerController : MonoBehaviour
     {
 
 
-        if (playerAttackAction.WasPressedThisFrame())
+        if (playerAttackAction.WasPressedThisFrame() && ammo > 0)
         {
             Instantiate(bloodBullet, bulletSpawnLocation.transform.position, bulletSpawnLocation.transform.rotation);
+            ammo -= 1;
         }
     }
 
