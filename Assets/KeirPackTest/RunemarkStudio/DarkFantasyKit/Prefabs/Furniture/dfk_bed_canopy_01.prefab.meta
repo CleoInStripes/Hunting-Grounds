@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: abd0560a63eaf5649ab50fe21bd8a08d
+labels:
+- Bed
+- Bedroom
+- Castle
+- Dark
+- Fantasy
+- Furniture
+- Inn
+- Interior
+- Noble
+- Palace
+- Tavern
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Prefabs/Furniture/dfk_bed_canopy_01.prefab
+  uploadId: 455415

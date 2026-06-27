@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 3c8a113e6c9046348a5fdcc9cb8dffb3
+labels:
+- Fantasy
+- Prop
+- Statue
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Prefabs/Decoration/Sculptures/dfk_statue_scorpion_01.prefab
+  uploadId: 455415

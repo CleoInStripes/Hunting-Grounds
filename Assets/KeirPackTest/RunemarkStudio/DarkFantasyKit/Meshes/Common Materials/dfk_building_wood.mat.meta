@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 646ec83a53da6294d9b14e677aaa0d60
+timeCreated: 1544009675
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Meshes/Common Materials/dfk_building_wood.mat
+  uploadId: 455415

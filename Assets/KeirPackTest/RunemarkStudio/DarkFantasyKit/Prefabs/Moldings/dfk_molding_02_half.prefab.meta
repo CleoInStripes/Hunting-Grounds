@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 30f22ac359bd285468326a97f564d7ea
+labels:
+- Architecture
+- Building
+- Castle
+- Decoration
+- Exterior
+- Molding
+- Stone
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Prefabs/Moldings/dfk_molding_02_half.prefab
+  uploadId: 455415

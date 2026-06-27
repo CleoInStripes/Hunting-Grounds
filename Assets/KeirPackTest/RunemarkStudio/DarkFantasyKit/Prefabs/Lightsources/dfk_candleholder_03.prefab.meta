@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 28ae24b5b29deba44a1bcdcfb1fb7449
+labels:
+- Candle
+- Cult
+- Dark
+- Fantasy
+- Flame
+- Light
+- Lightsource
+- Religion
+- Temple
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Prefabs/Lightsources/dfk_candleholder_03.prefab
+  uploadId: 455415

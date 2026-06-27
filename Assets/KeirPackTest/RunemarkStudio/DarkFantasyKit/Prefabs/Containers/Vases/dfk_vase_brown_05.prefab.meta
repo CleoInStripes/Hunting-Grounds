@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f456e3ed01ccb1a45b20152875bb9180
+labels:
+- Container
+- Dark
+- Fantasy
+- Flower
+- Prop
+- Vase
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Prefabs/Containers/Vases/dfk_vase_brown_05.prefab
+  uploadId: 455415

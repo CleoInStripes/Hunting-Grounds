@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 1ae0024b38f872845858e81222f5beac
+labels:
+- Book
+- Castle
+- Dark
+- Fantasy
+- Furniture
+- Inn
+- Interior
+- Library
+- Palace
+- Shelf
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Prefabs/Furniture/dfk_shelf_01.prefab
+  uploadId: 455415

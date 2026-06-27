@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: eaf608601b19b62468cf70a5f506df3d
+labels:
+- Fantasy
+- Gem
+- Prop
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Prefabs/Decoration/Sculptures/dfk_gemstone_01.prefab
+  uploadId: 455415

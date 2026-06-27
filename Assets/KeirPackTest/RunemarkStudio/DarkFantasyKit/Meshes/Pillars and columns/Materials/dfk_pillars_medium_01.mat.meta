@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9891c18db88f46d47a1983272fd5b60a
+timeCreated: 1521470754
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Meshes/Pillars and columns/Materials/dfk_pillars_medium_01.mat
+  uploadId: 455415

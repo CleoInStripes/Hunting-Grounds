@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: ec73f3f2718e2dc409dc7b83fcdd7817
+labels:
+- Arch
+- Architecture
+- Castle
+- Dark
+- Environment
+- Fantasy
+- Gothic
+- Medieval
+- Stone
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Prefabs/Arches/dfk_arch_01_half_blocked_small_b.prefab
+  uploadId: 455415

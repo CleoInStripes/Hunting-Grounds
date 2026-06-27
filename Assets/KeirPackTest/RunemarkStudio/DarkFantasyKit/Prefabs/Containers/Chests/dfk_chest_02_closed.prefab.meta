@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 0c0aee4764d3c1e47bc704c0fbfa3a77
+labels:
+- Chest
+- Container
+- Fantasy
+- Furniture
+- Loot
+- Rich
+- Treasure
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Prefabs/Containers/Chests/dfk_chest_02_closed.prefab
+  uploadId: 455415

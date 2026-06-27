@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 0f0564b94029c334ca62044cfe2e8083
+labels:
+- Box
+- Container
+- Crate
+- Fantasy
+- Market
+- Marketplace
+- Warehouse
+- Wood
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Prefabs/Containers/Crates/dfk_crates_covered_blue_01.prefab
+  uploadId: 455415

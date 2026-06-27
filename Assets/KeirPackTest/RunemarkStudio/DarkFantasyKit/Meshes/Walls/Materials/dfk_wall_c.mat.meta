@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4371c8132c5631c4382d237cec812d6c
+timeCreated: 1522053445
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Meshes/Walls/Materials/dfk_wall_c.mat
+  uploadId: 455415

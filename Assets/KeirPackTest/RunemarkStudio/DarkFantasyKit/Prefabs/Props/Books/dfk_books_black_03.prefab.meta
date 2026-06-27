@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: e60d31fe7117ee04c8721836c5266732
+labels:
+- Book
+- Codex
+- Dark
+- Fantasy
+- Interior
+- Library
+- Paper
+- Prop
+- Sage
+- Wizard
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Prefabs/Props/Books/dfk_books_black_03.prefab
+  uploadId: 455415

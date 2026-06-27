@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: 31607acdc6e4b8e4a8ab2db8255c803f
+labels:
+- Alchemy
+- Book
+- Bookshelf
+- Dark
+- Desk
+- Fantasy
+- Furniture
+- Interior
+- Library
+- Sage
+- Sagr
+- Study
+- Table
+- Wizard
+- Work
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Prefabs/Furniture/dfk_desk_02_interactive.prefab
+  uploadId: 455415

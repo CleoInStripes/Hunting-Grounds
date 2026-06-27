@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 02b0c2249fe12ca4b8614a62ee81a5be
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Meshes/Steps, Floor, Ceiling/Materials/dfk_floor_04.mat
+  uploadId: 455415

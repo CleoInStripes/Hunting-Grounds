@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 44f86c04f53910a4bbab51d06861aaa0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Prefabs/Moldings/dfk_corbel_02_round.prefab
+  uploadId: 455415

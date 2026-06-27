@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 82e7cf9489cfcbb408e79c1f1f77e8b0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Scripts/Common/Controllers/RMTopDownController.cs
+  uploadId: 455415

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: c754181a8115e6d47a94a0f11e206b79
+labels:
+- Arch
+- Castle
+- Dark
+- Gothic
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Prefabs/Arches/dfk_arch_02_blocked_large_a.prefab
+  uploadId: 455415

@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 24c1cb3087bf5374ebf66cab8362fb1a
+labels:
+- Architecture
+- Castle
+- Dark
+- Dungeon
+- Fantasy
+- Floor
+- Interior
+- Room
+- Temple
+- Tile
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Prefabs/Floors/Steps/dfk_floor_steps_01_side_c.prefab
+  uploadId: 455415

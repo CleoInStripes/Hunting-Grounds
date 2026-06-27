@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 3b87f74c1a0d6314ca0504bf6ae8a881
+labels:
+- Architecture
+- Castle
+- Fantasy
+- Interior
+- Noble
+- Room
+- Stairs
+- Stone
+- Temple
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Prefabs/Stairs and Railings/dfk_balcony_01_corner.prefab
+  uploadId: 455415

@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: 1256b84ead2f0bc45bc0aa6c00298e24
+labels:
+- Architecture
+- Castle
+- Crypt
+- Cult
+- Dungeon
+- Fantasy
+- Modular
+- Noble
+- Palace
+- Stone
+- Temple
+- Tile
+- Wall
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Prefabs/Walls/Version B - Rough
+    Stone/dfk_wall_01b_bevel_door.prefab
+  uploadId: 455415

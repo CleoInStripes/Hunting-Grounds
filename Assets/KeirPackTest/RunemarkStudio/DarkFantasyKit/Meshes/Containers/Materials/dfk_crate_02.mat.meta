@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9b5b80cb0aaa7d541b8c8ce8ab7368fb
+timeCreated: 1524564498
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Meshes/Containers/Materials/dfk_crate_02.mat
+  uploadId: 455415

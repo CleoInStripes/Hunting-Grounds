@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 09de8d679c092a34a9cb9e2971206ec3
+timeCreated: 1524564514
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Meshes/Containers/Materials/dfk_cloth_brown.mat
+  uploadId: 455415

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 136d439d89633d74f89cd249a5478545
+timeCreated: 1523020002
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Meshes/Lightsources/Materials/dfk_crystal_yellow.mat
+  uploadId: 455415

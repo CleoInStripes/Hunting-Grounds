@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 72035ba6faa2392438efb9d872964745
+timeCreated: 1528188745
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Meshes/Decoration/Sculptures/Materials/dfk_statue_woman_01.mat
+  uploadId: 455415

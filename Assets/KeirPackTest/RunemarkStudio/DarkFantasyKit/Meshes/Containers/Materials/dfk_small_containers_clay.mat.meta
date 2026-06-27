@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c5bcd55efca51344a99319a7b8151567
+timeCreated: 1525360303
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Meshes/Containers/Materials/dfk_small_containers_clay.mat
+  uploadId: 455415

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0cc6764d99eab59469a74870c5869941
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Prefabs/Ceiling/dfk_ceiling_plank_01_round.prefab
+  uploadId: 455415
