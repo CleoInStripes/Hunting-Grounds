@@ -11,10 +11,10 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: de5210ce93b60c74b910290c522cd727, type: 3}
   m_Name: EditorStartupPrefs
-  m_EditorClassIdentifier: Assembly-CSharp-Editor::HutongGames.PlayMakerEditor.EditorStartupPrefs
-  welcomeScreenVersion: '1.9.9 '
+  m_EditorClassIdentifier: 
+  welcomeScreenVersion: '1.9.10 '
   playmakerVersion: 
   showWelcomeScreen: 1
   showUpgradeGuide: 0
-  lastAutoUpdateSignature: 6000.3.6f1__F:/Hunting-Grounds/Assets__0.0.0.0
+  lastAutoUpdateSignature: 
   useLegacyNetworking: 0
