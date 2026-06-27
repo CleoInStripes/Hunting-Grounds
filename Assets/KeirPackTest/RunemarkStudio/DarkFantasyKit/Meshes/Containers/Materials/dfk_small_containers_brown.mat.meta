@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 53d4b7211aac9684db15d4565b5f8772
+timeCreated: 1525360303
+licenseType: Free
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Meshes/Containers/Materials/dfk_small_containers_brown.mat
+  uploadId: 455415

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 7258000ca84beb84286d9fb2fdcde6fb
+labels:
+- Carpet
+- Castle
+- Inn
+- Noble
+- Rich
+- Room
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Prefabs/Decoration/Textiles/dfk_carpet_black_middle.prefab
+  uploadId: 455415

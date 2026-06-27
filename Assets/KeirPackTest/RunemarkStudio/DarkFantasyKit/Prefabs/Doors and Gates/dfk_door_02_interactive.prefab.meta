@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 5e8fd8db7a4cd34468b86eaf6ec1e8ef
+labels:
+- Castle
+- Dark
+- Door
+- Fantasy
+- Inn
+- Interior
+- Room
+- Wood
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Prefabs/Doors and Gates/dfk_door_02_interactive.prefab
+  uploadId: 455415

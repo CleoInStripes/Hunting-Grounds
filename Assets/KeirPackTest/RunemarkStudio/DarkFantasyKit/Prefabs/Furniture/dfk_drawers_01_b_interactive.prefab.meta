@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: efbc177f5290c764d81f5d4f3095ac35
+labels:
+- Bedroom
+- Castle
+- Clothing
+- Dark
+- Drawer
+- Fantasy
+- Furniture
+- Inn
+- Interior
+- Palace
+- Room
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Prefabs/Furniture/dfk_drawers_01_b_interactive.prefab
+  uploadId: 455415

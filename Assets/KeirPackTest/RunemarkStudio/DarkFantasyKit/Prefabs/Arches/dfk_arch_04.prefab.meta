@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 54771d27fd793f445929cc03328b9ee7
+labels:
+- Arch
+- Architecture
+- Castle
+- Dark
+- Environment
+- Fantasy
+- Gothic
+- Medieval
+- Stone
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Prefabs/Arches/dfk_arch_04.prefab
+  uploadId: 455415

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b496e6ab8be6f4045bdd5a08744d572d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Scripts/Transformers/RMTransformerSequencer.cs
+  uploadId: 455415

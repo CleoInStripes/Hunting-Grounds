@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d22a6419e1f3e394cb2018a2cabf1c78
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Prefabs/Ceiling/dfk_ceiling_stone_round.prefab
+  uploadId: 455415

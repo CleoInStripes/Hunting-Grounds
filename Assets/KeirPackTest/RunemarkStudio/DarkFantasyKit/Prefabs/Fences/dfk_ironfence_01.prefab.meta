@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 553e9cbaa6fc5f446805b49ad9fb77ef
+labels:
+- Castle
+- Dungeon
+- Fantasy
+- Fence
+- Inn
+- Medieval
+- Metal
+- Noble
+- Slavery
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Prefabs/Fences/dfk_ironfence_01.prefab
+  uploadId: 455415

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 155078793a2ae44409fa287b3175e652
+labels:
+- Army
+- Crest
+- Dark
+- Fabric
+- Flag
+- Prop
+- Textile
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Prefabs/Decoration/Flags/dfk_flag_01_c.prefab
+  uploadId: 455415

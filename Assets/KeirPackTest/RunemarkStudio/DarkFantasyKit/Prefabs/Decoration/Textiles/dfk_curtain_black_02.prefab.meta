@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: a46a2c2746c2394488db1070605f0244
+labels:
+- Curtain
+- Dark
+- Fabric
+- Fantasy
+- Inn
+- Noble
+- Prop
+- Room
+- Window
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Prefabs/Decoration/Textiles/dfk_curtain_black_02.prefab
+  uploadId: 455415

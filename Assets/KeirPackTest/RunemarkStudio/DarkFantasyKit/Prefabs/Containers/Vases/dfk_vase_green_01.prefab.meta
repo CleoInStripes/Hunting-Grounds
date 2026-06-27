@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 739dafe3fc8bbc64ab776be305a1fcfb
+labels:
+- Container
+- Dark
+- Fantasy
+- Flower
+- Prop
+- Vase
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Prefabs/Containers/Vases/dfk_vase_green_01.prefab
+  uploadId: 455415

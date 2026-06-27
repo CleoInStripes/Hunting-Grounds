@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 683b5ba9fb326b945bfc107a1508a6b9
+labels:
+- Dark
+- Decoration
+- Fabric
+- Fantasy
+- Inn
+- Noble
+- Prop
+- Room
+- Tapestry
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Prefabs/Decoration/Textiles/dfk_tapestry_red_01.prefab
+  uploadId: 455415

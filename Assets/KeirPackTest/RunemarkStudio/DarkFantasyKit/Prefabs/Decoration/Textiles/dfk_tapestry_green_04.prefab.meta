@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 116a1f82065f9a74f9d77d38eee3c147
+labels:
+- Dark
+- Decoration
+- Fabric
+- Fantasy
+- Inn
+- Noble
+- Prop
+- Room
+- Tapestry
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Prefabs/Decoration/Textiles/dfk_tapestry_green_04.prefab
+  uploadId: 455415

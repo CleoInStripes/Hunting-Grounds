@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 48f78403d56e3754599ba15505ef2348
+labels:
+- Carpet
+- Castle
+- Dark
+- Fabric
+- Fantasy
+- Inn
+- Noble
+- Prop
+- Rich
+- Room
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Prefabs/Decoration/Textiles/dfk_carpet_black_big.prefab
+  uploadId: 455415

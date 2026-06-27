@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: 739f5f515b18c634b88f644e933a7331
+labels:
+- Architecture
+- Castle
+- Fantasy
+- Inn
+- Interior
+- Mod
+- Modular
+- Noble
+- Palace
+- Rich
+- Stone
+- Tavern
+- Tile
+- Wall
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Prefabs/Walls/Version C - Paneled/dfk_wall_01c_corner_element_b.prefab
+  uploadId: 455415

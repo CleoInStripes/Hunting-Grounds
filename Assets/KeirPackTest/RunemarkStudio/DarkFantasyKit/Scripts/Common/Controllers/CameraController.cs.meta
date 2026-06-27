@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c456f7d5e19d07f4ea0633da70b28f60
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Scripts/Common/Controllers/CameraController.cs
+  uploadId: 455415

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1b12485ad3c7ce64596a7dae1c079c88
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Scripts/Common/Controllers/RMTopDownCamera.cs
+  uploadId: 455415

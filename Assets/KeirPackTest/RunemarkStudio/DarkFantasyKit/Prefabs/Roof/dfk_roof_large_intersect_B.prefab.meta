@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d945121bce5f5a84f841533115712e60
+timeCreated: 1547136047
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Prefabs/Roof/dfk_roof_large_intersect_B.prefab
+  uploadId: 455415

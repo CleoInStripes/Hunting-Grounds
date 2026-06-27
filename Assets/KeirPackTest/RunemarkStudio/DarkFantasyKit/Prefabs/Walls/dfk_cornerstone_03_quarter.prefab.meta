@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: bbb88f44aa4e30d4292fe4dad84049ba
+labels:
+- Architecture
+- Stone
+- Tile
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Prefabs/Walls/dfk_cornerstone_03_quarter.prefab
+  uploadId: 455415
