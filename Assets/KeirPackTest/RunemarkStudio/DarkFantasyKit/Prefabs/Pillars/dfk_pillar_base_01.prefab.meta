@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: b63276ff49c7fe94fb4d92945de354e5
+labels:
+- Antic
+- Architecture
+- Building
+- Castle
+- Fantasy
+- Gothic
+- Greek
+- Medieval
+- Noble
+- Pillar
+- Roman
+- Temple
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Prefabs/Pillars/dfk_pillar_base_01.prefab
+  uploadId: 455415

@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: e3d2c0fb1ef32fe45bf8c5014894e027
+labels:
+- Castle
+- Dark
+- Decoration
+- Fabric
+- Fantasy
+- Inn
+- Noble
+- Prop
+- Rich
+- Room
+- Valance
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Prefabs/Decoration/Textiles/dfk_valance_purple_03.prefab
+  uploadId: 455415

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8800a7a1724c8db4689c984e850d45bb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Meshes/Furniture/Materials/dfk_bed_canopy_01.mat
+  uploadId: 455415

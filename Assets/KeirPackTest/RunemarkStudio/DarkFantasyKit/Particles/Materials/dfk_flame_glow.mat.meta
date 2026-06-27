@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9881a9cd02d66d649b8c7670bd4c0bf1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Particles/Materials/dfk_flame_glow.mat
+  uploadId: 455415

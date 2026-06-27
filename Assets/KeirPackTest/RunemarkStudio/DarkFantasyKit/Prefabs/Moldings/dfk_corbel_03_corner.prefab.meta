@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 415f9264ba89dbd45b6bbdf45e189a58
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Prefabs/Moldings/dfk_corbel_03_corner.prefab
+  uploadId: 455415

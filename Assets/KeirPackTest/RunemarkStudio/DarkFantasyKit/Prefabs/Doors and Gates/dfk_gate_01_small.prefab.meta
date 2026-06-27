@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 48843a0b59ac6484cbc7053105508a08
+labels:
+- Castle
+- Door
+- Exterior
+- Fantasy
+- Gate
+- Gothic
+- Medieval
+- Noble
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Prefabs/Doors and Gates/dfk_gate_01_small.prefab
+  uploadId: 455415

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 2f84a6e86b8535848975b5f2453a66dd
+labels:
+- Architecture
+- Dark
+- Fantasy
+- Modular
+- Stone
+- Tile
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Prefabs/Ceiling/dfk_ceiling_stone_diagonal.prefab
+  uploadId: 455415

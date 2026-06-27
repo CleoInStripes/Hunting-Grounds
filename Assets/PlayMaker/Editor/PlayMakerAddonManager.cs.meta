@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: bce1de5ad847f6f4f901a5a40c7285a3
 timeCreated: 1522260315
-licenseType: Pro
+licenseType: Store
 MonoImporter:
   serializedVersion: 2
   defaultReferences: []
@@ -14,6 +14,6 @@ AssetOrigin:
   serializedVersion: 1
   productId: 368
   packageName: Playmaker
-  packageVersion: 1.9.9
+  packageVersion: 1.9.10f1
   assetPath: Assets/PlayMaker/Editor/PlayMakerAddonManager.cs
-  uploadId: 736611
+  uploadId: 937552

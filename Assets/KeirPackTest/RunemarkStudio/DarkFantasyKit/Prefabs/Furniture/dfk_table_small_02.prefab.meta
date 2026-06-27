@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: e0a371b20b70e5146bdbe66a07373690
+labels:
+- Castle
+- Dark
+- Dinner
+- Fantasy
+- Food
+- Furniture
+- Inn
+- Interior
+- Library
+- Noble
+- Palace
+- Sage
+- Table
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Prefabs/Furniture/dfk_table_small_02.prefab
+  uploadId: 455415

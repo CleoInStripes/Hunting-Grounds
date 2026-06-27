@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: be4e7fb495dea5b40a7b4e88d2bf0b38
+labels:
+- Canvas
+- Fantasy
+- Frame
+- Painting
+- Prop
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Prefabs/Decoration/Paintings/dfk_painting_frame_02.prefab
+  uploadId: 455415

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f51f4a598414dbd4aaa499202891b028
+labels:
+- Chest
+- Container
+- Fantasy
+- Furniture
+- Loot
+- Rich
+- Treasure
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Prefabs/Containers/Chests/Interactive/dfk_chest_02_blue_interactive.prefab
+  uploadId: 455415

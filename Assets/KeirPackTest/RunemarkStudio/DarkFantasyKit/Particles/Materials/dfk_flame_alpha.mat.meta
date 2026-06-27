@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 80e8bb4b9493f5f4f8d71465f1e688ff
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Particles/Materials/dfk_flame_alpha.mat
+  uploadId: 455415

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4af319ac858f41841b934393942bd446
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Meshes/Arches/Materials/dfk_arch_1.mat
+  uploadId: 455415

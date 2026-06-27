@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 84580153bb7bbe44792b9098c67b8dfc
+timeCreated: 1521715396
+licenseType: Free
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 123894
+  packageName: Dark Fantasy Kit
+  packageVersion: 1.4.2
+  assetPath: Assets/RunemarkStudio/DarkFantasyKit/Meshes/Stairs and Railings/Materials/dfk_railings_01_lod.mat
+  uploadId: 455415
