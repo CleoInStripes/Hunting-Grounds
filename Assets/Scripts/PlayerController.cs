@@ -18,7 +18,7 @@ public class PlayerController : MonoBehaviour
 
     private Vector2 playerMoveAmount;
 
-    private float playerWalkSpeed = 5.0f;
+    private float playerWalkSpeed = 10.0f;
     private float playerRotateDampening = 1f;
     private float turnSmoothingVelocity;
 
@@ -30,7 +30,7 @@ public class PlayerController : MonoBehaviour
     public GameObject bloodBullet;
     public GameObject bulletSpawnLocation;
     public int ammo = 20;
-    public TMP_Text ammoCounter;
+    // public TMP_Text ammoCounter;
 
     //health
     public int currentHealth = 96;
