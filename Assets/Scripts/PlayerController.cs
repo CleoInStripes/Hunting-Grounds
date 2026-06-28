@@ -11,6 +11,7 @@ public class PlayerController : MonoBehaviour
     private InputAction playerMoveAction;
     private InputAction playerJumpAction;
     private InputAction playerAttackAction;
+    private InputAction playerFeedAction;
 
     [SerializeField]
     private Transform playerCamera;
@@ -18,7 +19,7 @@ public class PlayerController : MonoBehaviour
     private Vector2 playerMoveAmount;
 
     private float playerWalkSpeed = 5.0f;
-    private float playerRotateDampening = 0.1f;
+    private float playerRotateDampening = 0.5f;
     private float turnSmoothingVelocity;
 
     private float verticalVelocity = 0f;
@@ -30,6 +31,12 @@ public class PlayerController : MonoBehaviour
     public GameObject bulletSpawnLocation;
     public int ammo = 20;
     public TMP_Text ammoCounter;
+
+    //health
+    public int currentHealth = 96;
+    public int maxHealth = 100;
+    private int bloody;
+
 
     private void OnEnable()
     {
@@ -46,16 +53,18 @@ public class PlayerController : MonoBehaviour
         playerMoveAction = InputSystem.actions.FindAction("Move");
         playerJumpAction = InputSystem.actions.FindAction("Jump");
         playerAttackAction = InputSystem.actions.FindAction("Attack");
+        playerFeedAction = InputSystem.actions.FindAction("Interact");
+
     }
 
     private void Update()
     {
+        ammoCounter.text = "your blood is: " + ammo + " ";
         playerMoveAmount = playerMoveAction.ReadValue<Vector2>();
         PlayerMoveAndRotate();
         Jump();
         Attack();
-
-        ammoCounter.text = "your ammo is: " + ammo + "/ 20";
+        Feed();
     }
 
     private void PlayerMoveAndRotate()
@@ -105,6 +114,39 @@ public class PlayerController : MonoBehaviour
         {
             Instantiate(bloodBullet, bulletSpawnLocation.transform.position, bulletSpawnLocation.transform.rotation);
             ammo -= 1;
+            
+        }
+    }
+
+    private void Feed()
+    {
+        if (playerFeedAction.WasPressedThisFrame())
+        {
+            float interactRange = 2f;
+            Collider[] colliderArray = Physics.OverlapSphere(transform.position, interactRange); 
+            foreach (Collider collider in colliderArray)
+            {
+                if (collider.TryGetComponent(out HumanBeBitten huBeBit))
+                {
+                    huBeBit.Interact();
+                    bloody = huBeBit.bloodAmount;
+                    if (currentHealth >= maxHealth)
+                    {
+                        ammo += bloody;
+                    }
+                    else if ((currentHealth + bloody) > maxHealth)
+                    {
+                        int bloodMath = maxHealth - currentHealth;
+                        currentHealth += bloodMath;
+                        int remainingBlood = bloody - bloodMath;
+                        ammo += remainingBlood;
+                    }
+                    else if ((currentHealth + bloody) <= maxHealth)
+                    {
+                        currentHealth += bloody;
+                    }
+                }
+            }
         }
     }
 
