@@ -119,120 +119,6 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!1001 &7886498
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -7.0960274
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.000008808809
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 1.06
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4285792721335066419, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_Name
-      value: Townsfolk (12)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
---- !u!1001 &13385635
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -6.5715513
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.000008705796
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -8.999856
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4285792721335066419, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_Name
-      value: Townsfolk (17)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
 --- !u!1 &44441460
 GameObject:
   m_ObjectHideFlags: 0
@@ -373,7 +259,7 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
---- !u!1001 &54819409
+--- !u!1001 &277260424
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -381,340 +267,59 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
+    - target: {fileID: 1119886372652348737, guid: 198ff90fae08241518d8b0cd0986ee7c, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -6.9715514
+      value: -4.8
       objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
+    - target: {fileID: 1119886372652348737, guid: 198ff90fae08241518d8b0cd0986ee7c, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.000008705796
+      value: 1.28
       objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
+    - target: {fileID: 1119886372652348737, guid: 198ff90fae08241518d8b0cd0986ee7c, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -12.668996
+      value: -24.85
       objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
+    - target: {fileID: 1119886372652348737, guid: 198ff90fae08241518d8b0cd0986ee7c, type: 3}
       propertyPath: m_LocalRotation.w
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
+    - target: {fileID: 1119886372652348737, guid: 198ff90fae08241518d8b0cd0986ee7c, type: 3}
       propertyPath: m_LocalRotation.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
+    - target: {fileID: 1119886372652348737, guid: 198ff90fae08241518d8b0cd0986ee7c, type: 3}
       propertyPath: m_LocalRotation.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
+    - target: {fileID: 1119886372652348737, guid: 198ff90fae08241518d8b0cd0986ee7c, type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
+    - target: {fileID: 1119886372652348737, guid: 198ff90fae08241518d8b0cd0986ee7c, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
+    - target: {fileID: 1119886372652348737, guid: 198ff90fae08241518d8b0cd0986ee7c, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
+    - target: {fileID: 1119886372652348737, guid: 198ff90fae08241518d8b0cd0986ee7c, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4285792721335066419, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
+    - target: {fileID: 6875675716244833576, guid: 198ff90fae08241518d8b0cd0986ee7c, type: 3}
       propertyPath: m_Name
-      value: Townsfolk (35)
+      value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 9105197276199482891, guid: 198ff90fae08241518d8b0cd0986ee7c, type: 3}
+      propertyPath: ammoCounter
+      value: 
+      objectReference: {fileID: 734739796}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
---- !u!1001 &91617824
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -4
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.000009235457
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -21.7
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4285792721335066419, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_Name
-      value: Townsfolk (33)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
---- !u!1001 &130302793
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4181556224884780359, guid: fdbb6cd8513e238409c4e9575c8f65ff, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -0.14
-      objectReference: {fileID: 0}
-    - target: {fileID: 4181556224884780359, guid: fdbb6cd8513e238409c4e9575c8f65ff, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.000008181848
-      objectReference: {fileID: 0}
-    - target: {fileID: 4181556224884780359, guid: fdbb6cd8513e238409c4e9575c8f65ff, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 1.07
-      objectReference: {fileID: 0}
-    - target: {fileID: 4181556224884780359, guid: fdbb6cd8513e238409c4e9575c8f65ff, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4181556224884780359, guid: fdbb6cd8513e238409c4e9575c8f65ff, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4181556224884780359, guid: fdbb6cd8513e238409c4e9575c8f65ff, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4181556224884780359, guid: fdbb6cd8513e238409c4e9575c8f65ff, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4181556224884780359, guid: fdbb6cd8513e238409c4e9575c8f65ff, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4181556224884780359, guid: fdbb6cd8513e238409c4e9575c8f65ff, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4181556224884780359, guid: fdbb6cd8513e238409c4e9575c8f65ff, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5157353267045164036, guid: fdbb6cd8513e238409c4e9575c8f65ff, type: 3}
-      propertyPath: m_Name
-      value: BasicEnemy (1)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: fdbb6cd8513e238409c4e9575c8f65ff, type: 3}
---- !u!1001 &167887352
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -3.0960274
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.0000106079915
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -3.53
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4285792721335066419, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_Name
-      value: Townsfolk (11)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
---- !u!1001 &287613196
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -16.48921
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.000013448139
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -3.5268142
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4285792721335066419, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_Name
-      value: Townsfolk (14)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
---- !u!1001 &302089779
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -16.88921
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.000013448139
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -7.1959543
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4285792721335066419, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_Name
-      value: Townsfolk (32)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 198ff90fae08241518d8b0cd0986ee7c, type: 3}
 --- !u!1001 &357307065
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -772,177 +377,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fdbb6cd8513e238409c4e9575c8f65ff, type: 3}
---- !u!1001 &493507604
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -3.9755242
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.000008705796
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -12.668996
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4285792721335066419, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_Name
-      value: Townsfolk (26)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
---- !u!1001 &497843782
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -14.135273
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.000015253034
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -16.400532
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4285792721335066419, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_Name
-      value: Townsfolk (34)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
---- !u!1001 &570825210
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -8.65
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.0000095833475
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -27.67914
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4285792721335066419, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_Name
-      value: Townsfolk (19)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
 --- !u!1 &636665799
 GameObject:
   m_ObjectHideFlags: 0
@@ -1083,120 +517,6 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
---- !u!1001 &645353938
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -7.9900002
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.000012943392
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -14.45914
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4285792721335066419, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_Name
-      value: Townsfolk (22)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
---- !u!1001 &646535116
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -13.55
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.000009643326
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -18.26
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4285792721335066419, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_Name
-      value: Townsfolk (1)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
 --- !u!1 &677669962
 GameObject:
   m_ObjectHideFlags: 0
@@ -1268,7 +588,7 @@ MonoBehaviour:
   m_MinRegionArea: 2
   m_NavMeshData: {fileID: 23800000, guid: 731e06ff5e674824b8781d469ee4765c, type: 2}
   m_BuildHeightMesh: 0
---- !u!1001 &757348156
+--- !u!1001 &734739795
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -1276,180 +596,117 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
+    - target: {fileID: 7853093448487174258, guid: b1d186ea7e6d75a4d953f0b1299c1fa7, type: 3}
+      propertyPath: m_Name
+      value: Canvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 7958236489452563752, guid: b1d186ea7e6d75a4d953f0b1299c1fa7, type: 3}
+      propertyPath: m_Pivot.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7958236489452563752, guid: b1d186ea7e6d75a4d953f0b1299c1fa7, type: 3}
+      propertyPath: m_Pivot.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7958236489452563752, guid: b1d186ea7e6d75a4d953f0b1299c1fa7, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7958236489452563752, guid: b1d186ea7e6d75a4d953f0b1299c1fa7, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7958236489452563752, guid: b1d186ea7e6d75a4d953f0b1299c1fa7, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7958236489452563752, guid: b1d186ea7e6d75a4d953f0b1299c1fa7, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7958236489452563752, guid: b1d186ea7e6d75a4d953f0b1299c1fa7, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7958236489452563752, guid: b1d186ea7e6d75a4d953f0b1299c1fa7, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7958236489452563752, guid: b1d186ea7e6d75a4d953f0b1299c1fa7, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -16.946028
+      value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
+    - target: {fileID: 7958236489452563752, guid: b1d186ea7e6d75a4d953f0b1299c1fa7, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.000009643326
+      value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
+    - target: {fileID: 7958236489452563752, guid: b1d186ea7e6d75a4d953f0b1299c1fa7, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -21.92914
+      value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
+    - target: {fileID: 7958236489452563752, guid: b1d186ea7e6d75a4d953f0b1299c1fa7, type: 3}
       propertyPath: m_LocalRotation.w
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
+    - target: {fileID: 7958236489452563752, guid: b1d186ea7e6d75a4d953f0b1299c1fa7, type: 3}
       propertyPath: m_LocalRotation.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
+    - target: {fileID: 7958236489452563752, guid: b1d186ea7e6d75a4d953f0b1299c1fa7, type: 3}
       propertyPath: m_LocalRotation.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
+    - target: {fileID: 7958236489452563752, guid: b1d186ea7e6d75a4d953f0b1299c1fa7, type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
+    - target: {fileID: 7958236489452563752, guid: b1d186ea7e6d75a4d953f0b1299c1fa7, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7958236489452563752, guid: b1d186ea7e6d75a4d953f0b1299c1fa7, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7958236489452563752, guid: b1d186ea7e6d75a4d953f0b1299c1fa7, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
+    - target: {fileID: 7958236489452563752, guid: b1d186ea7e6d75a4d953f0b1299c1fa7, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
+    - target: {fileID: 7958236489452563752, guid: b1d186ea7e6d75a4d953f0b1299c1fa7, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4285792721335066419, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_Name
-      value: Townsfolk (27)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
---- !u!1001 &800206124
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -3.575524
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.000008705796
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -8.999856
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4285792721335066419, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_Name
-      value: Townsfolk (8)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
---- !u!1001 &835681134
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -4.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.000008808809
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -2.60914
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4285792721335066419, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_Name
-      value: Townsfolk (21)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: b1d186ea7e6d75a4d953f0b1299c1fa7, type: 3}
+--- !u!114 &734739796 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 367979518047479851, guid: b1d186ea7e6d75a4d953f0b1299c1fa7, type: 3}
+  m_PrefabInstance: {fileID: 734739795}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.TextMeshPro::TMPro.TextMeshProUGUI
 --- !u!1001 &908402924
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1425040948}
     m_Modifications:
     - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -7.59
+      value: 5.96
       objectReference: {fileID: 0}
     - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
       propertyPath: m_LocalPosition.y
@@ -1457,7 +714,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -10.79
+      value: 7.4700003
       objectReference: {fileID: 0}
     - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
       propertyPath: m_LocalRotation.w
@@ -1465,15 +722,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -1496,63 +753,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
---- !u!1001 &925593421
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -10.739245
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.000015253034
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -12.731393
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4285792721335066419, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_Name
-      value: Townsfolk (7)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
+--- !u!4 &908402925 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
+  m_PrefabInstance: {fileID: 908402924}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &926695579
 GameObject:
   m_ObjectHideFlags: 0
@@ -1666,348 +871,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 926695579}
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
---- !u!1001 &929302883
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -11.139246
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.000015253034
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -16.400532
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4285792721335066419, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_Name
-      value: Townsfolk (25)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
---- !u!1001 &957770929
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -3.6
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.000009235457
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -18.03086
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4285792721335066419, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_Name
-      value: Townsfolk (15)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
---- !u!1001 &1050226037
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -11.246027
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.0000095833475
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -24.01
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4285792721335066419, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_Name
-      value: Townsfolk (10)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
---- !u!1001 &1055077801
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -13.950001
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.000009643326
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -21.92914
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4285792721335066419, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_Name
-      value: Townsfolk (18)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
---- !u!1001 &1117937896
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -0.1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.0000106079915
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -3.53
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4285792721335066419, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_Name
-      value: Townsfolk (3)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
---- !u!1001 &1171849025
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -8.25
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.0000095833475
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -24.01
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4285792721335066419, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_Name
-      value: Townsfolk (2)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
 --- !u!1 &1182992394
 GameObject:
   m_ObjectHideFlags: 0
@@ -2148,63 +1011,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1182992394}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
---- !u!1001 &1229197191
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -1.0039726
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.000009235457
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -21.7
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4285792721335066419, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_Name
-      value: Townsfolk (24)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
 --- !u!1 &1308849672
 GameObject:
   m_ObjectHideFlags: 0
@@ -2386,63 +1192,38 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &1421117713
-PrefabInstance:
+--- !u!1 &1425040947
+GameObject:
   m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1425040948}
+  m_Layer: 0
+  m_Name: townsfolk
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1425040948
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1425040947}
   serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -13.735273
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.000015253034
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -12.731393
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4285792721335066419, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_Name
-      value: Townsfolk (16)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -13.55, y: -0, z: -18.26}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 908402925}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1449955005
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2500,120 +1281,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 30ee43a32bff54f4d82fd70696882df2, type: 3}
---- !u!1001 &1478390503
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -0.5000001
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.0000106079915
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -7.1991396
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4285792721335066419, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_Name
-      value: Townsfolk (20)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
---- !u!1001 &1544121678
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -3.4960275
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.0000106079915
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -7.1991396
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4285792721335066419, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_Name
-      value: Townsfolk (29)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
 --- !u!1 &1577993103
 GameObject:
   m_ObjectHideFlags: 0
@@ -2754,63 +1421,6 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
---- !u!1001 &1728121461
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -11.646027
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.0000095833475
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -27.67914
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4285792721335066419, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_Name
-      value: Townsfolk (28)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
 --- !u!1 &1755843957
 GameObject:
   m_ObjectHideFlags: 0
@@ -2948,177 +1558,6 @@ MonoBehaviour:
     m_VarianceClampScale: 0.9
     m_ContrastAdaptiveSharpening: 0
   m_Version: 2
---- !u!1001 &1763446480
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -0.60397255
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.000009235457
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -18.03086
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4285792721335066419, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_Name
-      value: Townsfolk (6)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
---- !u!1001 &1777496588
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -13.893183
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.000013448139
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -7.1959543
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4285792721335066419, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_Name
-      value: Townsfolk (23)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
---- !u!1001 &1804936911
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -16.546028
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.000009643326
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -18.26
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4285792721335066419, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_Name
-      value: Townsfolk (9)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
 --- !u!1 &1818340552
 GameObject:
   m_ObjectHideFlags: 0
@@ -3259,120 +1698,6 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
---- !u!1001 &1895081388
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -10.586027
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.000012943392
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -10.79
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4285792721335066419, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_Name
-      value: Townsfolk (13)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
---- !u!1001 &1907174797
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -7.4960275
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.000008808809
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -2.60914
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4285792721335066419, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_Name
-      value: Townsfolk (30)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
 --- !u!1 &2028090414
 GameObject:
   m_ObjectHideFlags: 0
@@ -3513,221 +1838,16 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
---- !u!1001 &2049126948
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -4.1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.000008808809
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 1.06
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4285792721335066419, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_Name
-      value: Townsfolk (4)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
---- !u!1001 &2100995321
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -13.493182
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.000013448139
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -3.5268142
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4285792721335066419, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_Name
-      value: Townsfolk (5)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
---- !u!1001 &2109499731
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -10.986027
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.000012943392
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -14.45914
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4089263283440654607, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4285792721335066419, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
-      propertyPath: m_Name
-      value: Townsfolk (31)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: d13df0eb9d0e5724fbf15d93abdd7f37, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 1755843960}
+  - {fileID: 734739795}
   - {fileID: 1449955005}
   - {fileID: 1308849674}
   - {fileID: 677669963}
   - {fileID: 1346399372}
   - {fileID: 357307065}
-  - {fileID: 130302793}
-  - {fileID: 646535116}
-  - {fileID: 1171849025}
-  - {fileID: 1117937896}
-  - {fileID: 2049126948}
-  - {fileID: 908402924}
-  - {fileID: 2100995321}
-  - {fileID: 1763446480}
-  - {fileID: 925593421}
-  - {fileID: 800206124}
-  - {fileID: 1804936911}
-  - {fileID: 1050226037}
-  - {fileID: 167887352}
-  - {fileID: 7886498}
-  - {fileID: 1895081388}
-  - {fileID: 287613196}
-  - {fileID: 957770929}
-  - {fileID: 1421117713}
-  - {fileID: 13385635}
-  - {fileID: 1055077801}
-  - {fileID: 570825210}
-  - {fileID: 1478390503}
-  - {fileID: 835681134}
-  - {fileID: 645353938}
-  - {fileID: 1777496588}
-  - {fileID: 1229197191}
-  - {fileID: 929302883}
-  - {fileID: 493507604}
-  - {fileID: 54819409}
-  - {fileID: 497843782}
-  - {fileID: 91617824}
-  - {fileID: 302089779}
-  - {fileID: 2109499731}
-  - {fileID: 1907174797}
-  - {fileID: 1544121678}
-  - {fileID: 1728121461}
-  - {fileID: 757348156}
+  - {fileID: 1425040948}
+  - {fileID: 277260424}
