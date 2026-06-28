@@ -19,7 +19,7 @@ public class PlayerController : MonoBehaviour
     private Vector2 playerMoveAmount;
 
     private float playerWalkSpeed = 5.0f;
-    private float playerRotateDampening = 0.5f;
+    private float playerRotateDampening = 1f;
     private float turnSmoothingVelocity;
 
     private float verticalVelocity = 0f;
@@ -59,7 +59,7 @@ public class PlayerController : MonoBehaviour
 
     private void Update()
     {
-        ammoCounter.text = "your blood is: " + ammo + " ";
+        ammoCounter.text = " " + ammo + " ";
         playerMoveAmount = playerMoveAction.ReadValue<Vector2>();
         PlayerMoveAndRotate();
         Jump();
@@ -70,23 +70,29 @@ public class PlayerController : MonoBehaviour
     private void PlayerMoveAndRotate()
     {
         Vector3 playerDirection = new Vector3(playerMoveAmount.x, 0f, playerMoveAmount.y).normalized;
-        Vector3 verticalMove = new Vector3(0f, verticalVelocity, 0f) * Time.deltaTime;
+        Vector3 verticalMove = new Vector3(0f, verticalVelocity, 0f);
+        Vector3 moveDirection = Vector3.zero;
 
         if(playerDirection.magnitude >= 0.1f)
         {
+            float camY = playerCamera.eulerAngles.y;
+
             float targetAngle = Mathf.Atan2(playerDirection.x, playerDirection.z) * Mathf.Rad2Deg + playerCamera.eulerAngles.y;
+
             float smoothTargetAngle = Mathf.SmoothDampAngle(transform.eulerAngles.y, targetAngle, ref turnSmoothingVelocity, playerRotateDampening);
 
             transform.rotation = Quaternion.Euler(0f, smoothTargetAngle, 0f);
 
-            Vector3 moveDirection = Quaternion.Euler (0f, targetAngle, 0f) * Vector3.forward;
-            playerCharacterController.Move(moveDirection.normalized * playerWalkSpeed * Time.deltaTime + verticalMove);
+            moveDirection = (Quaternion.Euler (0f, targetAngle, 0f) * Vector3.forward).normalized * playerWalkSpeed;
 
         }
         else
         {
             playerCharacterController.Move(verticalMove);
         }
+
+        Vector3 finalMovement = (moveDirection + verticalMove) * Time.deltaTime;
+        playerCharacterController.Move(finalMovement);
     }
 
     private void Jump()
@@ -112,6 +118,10 @@ public class PlayerController : MonoBehaviour
 
         if (playerAttackAction.WasPressedThisFrame() && ammo > 0)
         {
+            //I have no idea if we get a shooting animation but put it here
+
+
+            //if we ever get it. reload is below
             Instantiate(bloodBullet, bulletSpawnLocation.transform.position, bulletSpawnLocation.transform.rotation);
             ammo -= 1;
             
@@ -129,6 +139,10 @@ public class PlayerController : MonoBehaviour
                 if (collider.TryGetComponent(out HumanBeBitten huBeBit))
                 {
                     huBeBit.Interact();
+                    //Player Reload Amination here
+
+
+                    //in here. For victum explode go to HumanBeBitten
                     bloody = huBeBit.bloodAmount;
                     if (currentHealth >= maxHealth)
                     {

@@ -8,15 +8,21 @@ public class BloodBullet : MonoBehaviour
     void Start()
     {
         rb = gameObject.GetComponent<Rigidbody>();
+        GameObject myObject = gameObject;
     }
 
     void Update()
     {
         rb.linearVelocity = transform.forward * speed; 
-        
-        float interactRange = 2f;
-        Collider[] colliderArray = Physics.OverlapSphere(transform.position, interactRange);
-        Debug.Log(GetComponent<Collider>());
-        // if ()
+    }
+
+    private void OnTriggerEnter (Collider other)
+    {
+        if (other.CompareTag("Enemy"))
+        {
+            Debug.Log("Hit enemy: " + other.name);
+            Destroy(other.gameObject);
+            Destroy(gameObject);
+        }
     }
 }

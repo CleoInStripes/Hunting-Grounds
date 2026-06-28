@@ -1097,6 +1097,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 9105197276199482891, guid: 198ff90fae08241518d8b0cd0986ee7c, type: 3}
+      propertyPath: ammoCounter
+      value: 
+      objectReference: {fileID: 768287496}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
