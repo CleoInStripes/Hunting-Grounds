@@ -12,6 +12,9 @@ public class BloodBullet : MonoBehaviour
 
     void Update()
     {
-        rb.linearVelocity = transform.forward * speed;        
+        rb.linearVelocity = transform.forward * speed; 
+        Collider[] colliderArray = Physics.OverlapSphere(transform.position, interactRange);
+        Debug.Log(collider);
+        // if ()
     }
 }

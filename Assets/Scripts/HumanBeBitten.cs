@@ -7,8 +7,13 @@ public class HumanBeBitten : MonoBehaviour
 
     public void Interact()
     {
-        Debug.Log("Interact");
+        //Put the reload animation here
+
+
+
+        //Above here
         bloodAmount = 5;
+        
 
     }
 }
