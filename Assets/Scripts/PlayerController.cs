@@ -59,7 +59,7 @@ public class PlayerController : MonoBehaviour
 
     private void Update()
     {
-        ammoCounter.text = " " + ammo + " ";
+        //ammoCounter.text = " " + ammo + " ";
         playerMoveAmount = playerMoveAction.ReadValue<Vector2>();
         PlayerMoveAndRotate();
         Jump();
