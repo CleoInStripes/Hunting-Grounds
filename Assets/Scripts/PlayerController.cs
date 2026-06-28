@@ -18,7 +18,7 @@ public class PlayerController : MonoBehaviour
 
     private Vector2 playerMoveAmount;
 
-    private float playerWalkSpeed = 5.0f;
+    private float playerWalkSpeed = 10.0f;
     private float playerRotateDampening = 1f;
     private float turnSmoothingVelocity;
 
@@ -30,12 +30,20 @@ public class PlayerController : MonoBehaviour
     public GameObject bloodBullet;
     public GameObject bulletSpawnLocation;
     public int ammo = 20;
-    public TMP_Text ammoCounter;
+    // public TMP_Text ammoCounter;
 
     //health
     public int currentHealth = 96;
     public int maxHealth = 100;
     private int bloody;
+
+
+    // === Add these new variables right here, OUTSIDE of any functions ===
+    [SerializeField] private InputActionReference playerLookAction; 
+    [SerializeField] private float mouseSensitivity = 15f;
+    
+    // THIS LINE FIXES THE CONTEXT ERROR:
+    private float xRotation = 0f; 
 
 
     private void OnEnable()
@@ -61,36 +69,29 @@ public class PlayerController : MonoBehaviour
     {
         //ammoCounter.text = " " + ammo + " ";
         playerMoveAmount = playerMoveAction.ReadValue<Vector2>();
+
+        Vector2 mouseInput = playerLookAction.action.ReadValue<Vector2>();
+        PlayerLook(mouseInput);
+
+
         PlayerMoveAndRotate();
         Jump();
         Attack();
         Feed();
     }
 
+    private void PlayerLook(Vector2 mouseInput)
+    {
+        float mouseX = mouseInput.x * mouseSensitivity * Time.deltaTime;
+        transform.Rotate(Vector3.up * mouseX);
+    }
+
     private void PlayerMoveAndRotate()
     {
-        Vector3 playerDirection = new Vector3(playerMoveAmount.x, 0f, playerMoveAmount.y).normalized;
+        Vector3 moveDirection = (transform.forward * playerMoveAmount.y + transform.right * playerMoveAmount.x).normalized;
+        moveDirection *= playerWalkSpeed;
+
         Vector3 verticalMove = new Vector3(0f, verticalVelocity, 0f);
-        Vector3 moveDirection = Vector3.zero;
-
-        if(playerDirection.magnitude >= 0.1f)
-        {
-            float camY = playerCamera.eulerAngles.y;
-
-            float targetAngle = Mathf.Atan2(playerDirection.x, playerDirection.z) * Mathf.Rad2Deg + playerCamera.eulerAngles.y;
-
-            float smoothTargetAngle = Mathf.SmoothDampAngle(transform.eulerAngles.y, targetAngle, ref turnSmoothingVelocity, playerRotateDampening);
-
-            transform.rotation = Quaternion.Euler(0f, smoothTargetAngle, 0f);
-
-            moveDirection = (Quaternion.Euler (0f, targetAngle, 0f) * Vector3.forward).normalized * playerWalkSpeed;
-
-        }
-        else
-        {
-            playerCharacterController.Move(verticalMove);
-        }
-
         Vector3 finalMovement = (moveDirection + verticalMove) * Time.deltaTime;
         playerCharacterController.Move(finalMovement);
     }
