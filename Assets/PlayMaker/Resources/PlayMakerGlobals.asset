@@ -37,4 +37,5 @@ MonoBehaviour:
     categories:
     - 
     variableCategoryIDs: 00000000
-  events: []
+  events:
+  - Damage
